@@ -1,9 +1,7 @@
 # Git repo für das Brüssel Faceshield
 
-[Hauptinformationsseite für München: https://forums.erfindergarden.de/t/faceshield-angebot-im-makervsvirus-hubmuenchen/538] (https://forums.erfindergarden.de/t/faceshield-angebot-im-makervsvirus-hubmuenchen/538)
-
-
-[Sammelstellen: https://forums.erfindergarden.de/t/hubmuenchen-makervs-virus-sammelstellen/539](https://forums.erfindergarden.de/t/hubmuenchen-makervs-virus-sammelstellen/539)
+* [Hauptinformationsseite für München: https://forums.erfindergarden.de/t/faceshield-angebot-im-makervsvirus-hubmuenchen/538](https://forums.erfindergarden.de/t/faceshield-angebot-im-makervsvirus-hubmuenchen/538)
+* [Sammelstellen: https://forums.erfindergarden.de/t/hubmuenchen-makervs-virus-sammelstellen/539](https://forums.erfindergarden.de/t/hubmuenchen-makervs-virus-sammelstellen/539)
 
 
 
