@@ -1,7 +1,10 @@
-# Git repo für das Brüssel Faceshield
+# Git repo für das Brüssel Faceshield (Maker community München)
 
 * [Hauptinformationsseite für München: https://forums.erfindergarden.de/t/faceshield-angebot-im-makervsvirus-hubmuenchen/538](https://forums.erfindergarden.de/t/faceshield-angebot-im-makervsvirus-hubmuenchen/538)
 * [Sammelstellen: https://forums.erfindergarden.de/t/hubmuenchen-makervs-virus-sammelstellen/539](https://forums.erfindergarden.de/t/hubmuenchen-makervs-virus-sammelstellen/539)
+
+# Attribution: 
+Brüssel888 headband for A4 sheets (easy to print, fast, stackable, 888 4-hole) by postiman on Thingiverse: https://www.thingiverse.com/thing:4239203
 
 
 
